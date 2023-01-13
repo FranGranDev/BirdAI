@@ -1,0 +1,29 @@
+{
+    "Bird": {
+        "checkpoints": [
+            {
+                "steps": 19855,
+                "file_path": "results\\Pipes_7\\Bird\\Bird-19855.onnx",
+                "reward": null,
+                "creation_time": 1673627377.4626737,
+                "auxillary_file_paths": [
+                    "results\\Pipes_7\\Bird\\Bird-19855.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 19855,
+            "file_path": "results\\Pipes_7\\Bird.onnx",
+            "reward": null,
+            "creation_time": 1673627377.4626737,
+            "auxillary_file_paths": [
+                "results\\Pipes_7\\Bird\\Bird-19855.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}
